@@ -1,0 +1,15 @@
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+.white-background {
+  background-color: white;
+  color: black;
+}
+#initially-hidden {
+  display: none;
+}
+img {
+  width: 500px;
+}
