@@ -1,4 +1,4 @@
-#My Dog Scamper website
+#My Dog Scamper web page
 
 ###_Pet web page, 10.11.16_
 
