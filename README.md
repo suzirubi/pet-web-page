@@ -6,7 +6,7 @@
 
 ##Description
 
-###Web page with night and day mode buttons
+Web page with night and day mode buttons
 
 ###Setup/Installation Requirements
 
