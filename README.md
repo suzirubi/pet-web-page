@@ -1,24 +1,25 @@
-My Dog Scamper website
+#My Dog Scamper website
 
-Pet web page, 10.11.16
+###_Pet web page, 10.11.16_
 
-By Suzi Rubino and Hal Fairless
+###By Suzi Rubino and Hal Fairless
 
-Description
+##Description
 
-Web page with night and day mode buttons
+###Web page with night and day mode buttons
 
-Setup/Installation Requirements
+###Setup/Installation Requirements
 
-Clone this repository
-Open a browser and navigate to index.html in >file>open file
-Known Bugs
+* Clone this repository
+* Open a browser and navigate to index.html
 
-no known bugs
+##Known Bugs
 
-Technologies Used
+_no known bugs_
 
-html
-github
-css
-javascript
+##Technologies Used
+
+1. html
+2. github
+3. css
+4. javascript
